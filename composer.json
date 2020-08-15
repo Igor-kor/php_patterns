@@ -1,0 +1,14 @@
+{
+  "name": "igor-kor/php_patterns",
+  "description": "Шаблоны на php",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Igor Sharangiya",
+      "email": "igor_korenovsk@mail.ru"
+    }
+  ],
+  "require": {
+  }
+}
