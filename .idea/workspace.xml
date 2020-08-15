@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e67a98e-70ad-46f8-a5ea-c86e2a2fcf7b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spl_autoloader.php" beforeDir="false" afterPath="$PROJECT_DIR$/spl_autoloader.php" afterDir="false" />
-    </list>
+    <list default="true" id="4e67a98e-70ad-46f8-a5ea-c86e2a2fcf7b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +98,7 @@
       <workItem from="1567099422664" duration="2394000" />
       <workItem from="1567434532625" duration="6000" />
       <workItem from="1567690368495" duration="37000" />
-      <workItem from="1597507565564" duration="1912000" />
+      <workItem from="1597507565564" duration="2270000" />
     </task>
     <servers />
   </component>
